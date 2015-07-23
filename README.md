@@ -1,5 +1,5 @@
 # Foreword
-The ISO Base Media File Format is a large standard used by a wide community. Its development process within [MPEG] (http://mpeg.chiariglione.org/) follows the ISO rules which are not always appropriate or agile-enough for such a public standard. In particular, the complexity to provide input to the standard committee reduces the chances of people to submit issues.
+The ISO Base Media File Format is a large standard used by a wide community. Its development process within [MPEG] (http://mpeg.chiariglione.org/) follows the ISO rules which are not always appropriate or agile-enough for such a public standard. In particular, the complexity to provide simple inputs to the standard committee (such as typos, editing fixes, requests for clarifications ...) reduces the chances of people to submit issues.
 
 This repository aims at being a light-weight way of gathering comments, issues, corrigendum items from the open source/web/developer community for proper input into the ISO development process. It is not part of the official ISO process. It is not meant for people to propose new technologies. For that, please join the MPEG group as described [here](http://mpeg.chiariglione.org/content/how-join). 
 
